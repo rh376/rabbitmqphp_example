@@ -1,3 +1,3 @@
-# rabbitmqphp_example
+# Stream East Website
 
-Files for the actual website are in frontend-website, not in frontend
+All files for the front end are in "front-end website" folder
